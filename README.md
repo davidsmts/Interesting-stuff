@@ -8,6 +8,7 @@ Collection of interesting articles, blogs and papers
 - Sarah Dayan's (https://github.com/sarahdayan) Blog about frontend stuff: https://frontstuff.io/
 - James Fisher's Blog: https://jameshfisher.com/
 - Declan Oller's Blog: https://www.declanoller.com/
+- Scott Aaronson's Blog: https://www.scottaaronson.com/blog/
 
 <h2>Scientific Papers</h2>
 - Visualization of memory: http://www.cs.kent.edu/~jmaletic/cs69995-PC/papers/Moreta07.pdf</br>
